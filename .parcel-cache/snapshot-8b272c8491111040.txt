@@ -1,12 +1,12 @@
-9695
+9697
 134/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/forkify-architecture-recipe-loading.png1713998803220883114 0
 102/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/src/img1713998803228883130 1
 120/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/src/sass/_components.scss1713998803228883130 0
 123/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/src/sass/_searchResults.scss1713998803228883130 0
 113/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/src/sass/main.scss1713998803228883130 0
 103/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/src/sass1713998803228883130 1
-115/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/src/js/controller.js1719098886380322092 0
-110/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/src/js/model.js1719088450860693070 0
+115/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/src/js/controller.js1719186713050470930 0
+110/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/src/js/model.js1719186471540023811 0
 98/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/src1713998803228883130 1
 123/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/forkify-flowchart-part-2.png1713998803224883122 0
 106/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/.prettierrc1713998803220883114 0
@@ -2721,6 +2721,7 @@
 155/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/features/symbol/is-concat-spreadable.js1719062919786137679 0
 148/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/features/symbol/pattern-match.js1719062919926137221 0
 148/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/features/symbol/is-registered.js1719062919802137627 0
+112/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/src/js/helpers.js1719185335044180698 0
 146/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/features/symbol/description.js1719062919398138948 0
 142/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/features/symbol/key-for.js1719062919838137509 0
 148/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/features/symbol/async-dispose.js1719062919298139275 0
@@ -3777,6 +3778,7 @@
 171/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/removeXMLNS.js1719009859657072896 0
 182/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/optimizer-svgo/node_modules/svgo/plugins/addClassesToSVGElement.js1719009859553073392 0
 132/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/full/typed-array1719062920226136240 1
+111/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/src/js/config.js1719150688395189445 0
 135/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/css-select/lib/esm/index.js1719009859577073277 0
 135/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/actual/set/union.js1719062920194136344 0
 186/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/node/Identifier.js1719009859673072820 0
@@ -3880,7 +3882,7 @@
 145/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/transformer-html/package.json1719009859537073468 0
 139/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/caniuse-lite/data/regions/BA.js1719009859641072973 0
 149/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@swc/helpers/src/_to_consumable_array.mjs1719009859769072363 0
-101/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/src/js1719087155553350819 1
+101/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/src/js1719149018828022808 1
 145/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/transformer-html/node_modules1719009853185103887 1
 162/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/utils1719009859697072706 1
 171/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/optimizer-svgo/node_modules/css-tree/lib/lexer/index.js1719009859677072801 0
@@ -4446,7 +4448,7 @@
 161/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/runtime-js/src/helpers/browser/html-loader.js1719009859593073201 0
 126/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/actual/set1719062920194136344 1
 159/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/runtime-js/src/helpers/browser/js-loader.js1719009859609073125 0
-118/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist/icons.21bad73c.svg1719073450019988140 0
+118/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist/icons.21bad73c.svg1719150940410413482 0
 176/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/walker/index.js1719009859689072744 0
 129/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/optimizer-swc1719009859489073697 1
 118/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/parcel/lib1719009859493073678 1
@@ -4491,7 +4493,7 @@
 148/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/stable/instance/code-point-at.js1719062919342139132 0
 162/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/csso/node_modules/css-tree/lib/lexer/generic-urange.js1719009859729072553 0
 141/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/modules/es.global-this.js1719062919442138805 0
-117/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist/logo.726d37a8.png1719073450023988243 0
+117/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist/logo.726d37a8.png1719150940466413274 0
 156/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/runtime-js/lib/helpers/node/js-loader.js1719009859601073163 0
 156/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/packager-js/src/ScopeHoistingPackager.js1719009859589073220 0
 122/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@swc/helpers/_1719009859761072401 1
@@ -4538,7 +4540,7 @@
 167/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/transformer-sass/node_modules/sass/sass.default.cjs1719010563106624124 0
 137/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/full/number/is-nan.js1719062919798137640 0
 160/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/runtime-js/lib/helpers/worker/wasm-loader.js1719009859629073030 0
-107/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/src/js/views1719087182633233357 1
+107/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/src/js/views1719149018828022808 1
 159/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/csso/node_modules/css-tree/cjs/syntax/node/Hash.cjs1719009859653072915 0
 139/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/internals/get-method.js1719062919666138072 0
 144/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/full/typed-array/iterator.js1719062919830137535 0
@@ -4974,7 +4976,7 @@
 169/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/core/test/fixtures/config-extends-not-found/.parcelrc1719009859485073716 0
 132/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/utils/test/input1719009859669072839 1
 138/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/css-select/lib/attributes.d.ts1719009859657072896 0
-110/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist/index.html1719073450023988243 0
+110/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist/index.html1719150940494413169 0
 116/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/boolbase1719009859465073811 1
 140/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@swc/helpers/_/_jsx/package.json1719009859753072439 0
 138/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/stable/object/proto.js1719062919934137195 0
@@ -4983,7 +4985,7 @@
 129/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/css-tree/lib/index.js1719009859729072553 0
 168/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/csso/node_modules/css-tree/lib/syntax/function/expression.js1719009859725072572 0
 116/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/posthtml1719009859489073697 1
-118/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist/icons.dfd7a6db.svg1719073450023988243 0
+118/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist/icons.dfd7a6db.svg1719150940494413169 0
 149/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/namer-default/src/DefaultNamer.js1719009859489073697 0
 139/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/actual/iterator/from.js1719062919646138137 0
 182/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/attributes.d.ts.map1719009859573073297 0
@@ -5440,7 +5442,7 @@
 137/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/features/math/sinh.js1719062920006136960 0
 125/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/boolbase/index.js1719009859469073792 0
 149/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/features/number/to-exponential.js1719062920094136672 0
-117/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist/index.e37f48ea.js1719100969054437843 0
+117/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist/index.e37f48ea.js1719150940410413482 0
 160/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/csso/node_modules/css-tree/cjs/lexer/match-graph.cjs1719009859669072839 0
 132/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/semver/classes/semver.js1719009859617073087 0
 148/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/actual/promise/with-resolvers.js1719062920222136253 0
@@ -5556,7 +5558,7 @@
 170/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/core/test/fixtures/invalid-source-missing/package.json1719009859741072496 0
 140/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/modules/es.array.push.js1719062919430138843 0
 160/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/optimizer-svgo/node_modules/svgo/lib/svgo.js1719009859677072801 0
-118/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist/index.f7626f62.css1719073450023988243 0
+118/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist/index.f7626f62.css1719150940514413095 0
 154/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/csso/node_modules/css-tree/cjs/utils/names.cjs1719009859673072820 0
 184/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/node/Operator.js1719009859705072668 0
 182/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/source-map/parcel_sourcemap_wasm/dist-web/parcel_sourcemap_wasm.js1719009859573073297 0
@@ -6299,7 +6301,7 @@
 152/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/core/test/fixtures/duplicate-targets1719009859737072515 1
 184/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/optimizer-htmlnano/node_modules/css-tree/lib/syntax/node/Brackets.js1719009859565073335 0
 148/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/features/string/code-point-at.js1719062919342139132 0
-99/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist1719100969058437815 1
+99/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist1719150940514413095 1
 138/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/core/lib/Validation.js1719009859733072534 0
 144/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/actual/symbol/unscopables.js1719062920198136331 0
 154/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/core/src/requests/AssetGraphRequest.js1719009859645072954 0
@@ -6525,7 +6527,7 @@
 151/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/features/string/virtual/trim-end.js1719062920154136475 0
 159/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_dump.11719009859613073106 0
 140/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/cosmiconfig/dist/ExplorerBase.js1719009859505073621 0
-120/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist/favicon.8b2f57bf.png1719073450019988140 0
+120/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist/favicon.8b2f57bf.png1719150940410413482 0
 144/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/diagnostic/lib/diagnostic.js1719009859477073754 0
 160/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/caniuse-lite/data/features/css-content-visibility.js1719009859705072668 0
 149/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@parcel/core/src/requests/EntryRequest.js1719009859677072801 0
@@ -7458,7 +7460,7 @@
 154/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/internals/create-iter-result-object.js1719062919370139040 0
 136/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/css-tree/lib/lexer/search.js1719009859741072496 0
 134/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/csso/cjs/clean/Comment.cjs1719009859585073239 0
-121/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/src/js/views/recipeView.js1719102995040323589 0
+121/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/src/js/views/recipeView.js1719187200299407656 0
 150/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/caniuse-lite/data/features/css3-cursors.js1719009859733072534 0
 143/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/css-tree/lib/lexer/generic-const.js1719009859729072553 0
 138/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/es/array/virtual/at.js1719062919314139223 0
@@ -8573,7 +8575,7 @@
 165/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/csso/node_modules/css-tree/cjs/syntax/node/IdSelector.cjs1719009859657072896 0
 146/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/full/object/define-property.js1719062919390138975 0
 146/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/features/array/virtual/sort.js1719062920042136842 0
-121/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist/index.e37f48ea.js.map1719100969058437815 0
+121/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist/index.e37f48ea.js.map1719150940418413452 0
 135/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/full/object/seal.js1719062919986137025 0
 135/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/es/object/assign.js1719062919294139289 0
 155/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/full/object/get-own-property-symbols.js1719062919674138046 0
@@ -8920,7 +8922,7 @@
 144/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/full/number/virtual/index.js1719062919758137771 0
 141/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/features/number/is-nan.js1719062919798137640 0
 138/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/full/number/epsilon.js1719062919422138870 0
-122/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist/index.f7626f62.css.map1719073450023988243 0
+122/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/dist/index.f7626f62.css.map1719150940514413095 0
 172/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.napi.musl.node1719009859537073468 0
 143/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/core-js/full/number/to-precision.js1719062920106136633 0
 150/home/fabrice/Documents/Udemy courses/javascript/complete-javascript-course/18-forkify/starter/node_modules/caniuse-lite/data/features/wasm-threads.js1719009859785072286 0
